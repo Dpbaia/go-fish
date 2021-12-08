@@ -1,2 +1,2 @@
-# go-fish
+# Go Fish
 Rails project using the Fishwatch API
